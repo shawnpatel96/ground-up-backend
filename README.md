@@ -1,1 +1,1 @@
-# shopify-internship
+# ground up backend
